@@ -1,0 +1,7 @@
+package nat.nshm.items;
+
+import net.minecraft.item.Item;
+
+public class ItemIronRod extends Item {
+
+}

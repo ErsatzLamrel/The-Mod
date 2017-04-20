@@ -1,0 +1,20 @@
+item.DwarfStarIngot.name=Dwarf-Star Ingot
+item.SteelIngot.name=Steel Ingot
+item.PalladiumIngot.name=Palladium Ingot
+item.IonizedPalladiumIngot.name=Ionized Palladium Ingot
+item.CarbonFiberMesh.name=Carbon Fiber Mesh
+item.UnstableDwarfStarIngot.name=Unstable Dwarf-Star Ingot
+item.GreenCarbonFiberMesh.name=Green Carbon Fiber Mesh
+item.IronRod.name=Iron Rod
+
+item.dwarfstar_helmet.name=Dwarf-Star Helm
+item.dwarfstar_chestplate.name=Dwarf-Star Chestpiece
+item.dwarfstar_leggings.name=Dwarf-Star Pants
+item.dwarfstar_boots.name=Dwarf-Star Boots
+
+tile.DwarfStarOre.name=Dwarf-Star Ore
+tile.PalladiumOre.name=Palladium Ore
+tile.PalladiumBlock.name=Palladium Block
+tile.DwarfStarBlock.name=Dwarf-Star Block
+
+itemGroup.tabSuperHero=SuperHero Mod

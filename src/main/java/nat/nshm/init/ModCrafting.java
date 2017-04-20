@@ -14,7 +14,20 @@ public class ModCrafting {
 		GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.PalladiumBlock),"CCC", "CCC", "CCC", 'C', ModItems.PalladiumIngot);
 		GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.DwarfStarBlock),"CCC", "CCC", "CCC", 'C', ModItems.DwarfStarIngot);
 		GameRegistry.addShapedRecipe(new ItemStack(ModItems.IonizedPalladiumIngot),"CCC", "CIC", "CCC", 'C', Items.REDSTONE, 'I', ModItems.PalladiumIngot );
-		GameRegistry.addShapelessRecipe(new ItemStack(ModItems.UnstableDwarfStarIngot),"GD", 'C', Items.GUNPOWDER, 'I', ModItems.DwarfStarIngot );
+		GameRegistry.addShapedRecipe(new ItemStack(ModItems.UnstableDwarfStarIngot),"GD", 'G', Items.GUNPOWDER, 'D', ModItems.DwarfStarIngot );
+		GameRegistry.addShapedRecipe(new ItemStack(ModItems.DwarfStarIngot),"D  ", "   ", "   ", 'D', ModBlocks.DwarfStarBlock );
+		GameRegistry.addShapedRecipe(new ItemStack(ModItems.PalladiumIngot),"D  ", "   ", "   ", 'D', ModBlocks.PalladiumBlock );
+		GameRegistry.addShapedRecipe(new ItemStack(ModItems.IronRod),"I  ", " I ", "   ", 'I', Items.IRON_INGOT );
+		GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.DwarfStarBlock),"CCC", "CCC", "CCC", 'C', ModItems.DwarfStarIngot);
+GameRegistry.addShapedRecipe(new ItemStack(ModItems.dwarfstar_helmet),"CCC", "C C", "   ", 'C', ModItems.DwarfStarIngot);
+	GameRegistry.addShapedRecipe(new ItemStack(ModItems.dwarfstar_chestplate),"C C", "CCC", "CCC", 'C', ModItems.DwarfStarIngot);
+GameRegistry.addShapedRecipe(new ItemStack(ModItems.dwarfstar_leggings),"CCC", "C C", "C C", 'C', ModItems.DwarfStarIngot);
+	GameRegistry.addShapedRecipe(new ItemStack(ModItems.dwarfstar_boots),"   ", "C C", "C C", 'C', ModItems.DwarfStarIngot);
+	GameRegistry.addShapedRecipe(new ItemStack(ModItems.palladium_helmet),"CCC", "C C", "   ", 'C', ModItems.PalladiumIngot);
+		GameRegistry.addShapedRecipe(new ItemStack(ModItems.palladium_chestplate),"C C", "CCC", "CCC", 'C', ModItems.PalladiumIngot);
+	GameRegistry.addShapedRecipe(new ItemStack(ModItems.palladium_leggings),"CCC", "C C", "C C", 'C', ModItems.PalladiumIngot);
+		GameRegistry.addShapedRecipe(new ItemStack(ModItems.palladium_boots),"   ", "C C", "C C", 'C', ModItems.PalladiumIngot);
+
 	}
-	
+
 }
