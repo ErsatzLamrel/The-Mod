@@ -1,0 +1,20 @@
+package nat.nshm.items;
+
+import java.util.Set;
+
+import nat.nshm.SuperHero;
+import net.minecraft.block.Block;
+import net.minecraft.item.ItemAxe;
+import net.minecraft.item.ItemTool;
+
+public class ItemModAxe extends ItemTool{
+
+	protected ItemModAxe(float attackDamageIn, float attackSpeedIn, ToolMaterial materialIn,Set<Block> effectiveBlocksIn) {
+		super(attackDamageIn, attackSpeedIn, materialIn, effectiveBlocksIn);
+		this.setUnlocalizedName(getUnlocalizedName());
+		this.setCreativeTab(SuperHero.CREATIVE_Tab);
+		this.setMaxStackSize(1);
+	
+	}
+
+}

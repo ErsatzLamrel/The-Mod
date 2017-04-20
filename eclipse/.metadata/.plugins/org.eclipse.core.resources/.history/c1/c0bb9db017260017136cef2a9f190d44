@@ -1,0 +1,12 @@
+package nat.nshm.blocks;
+
+import net.minecraft.block.Block;
+import net.minecraft.block.material.Material;
+
+public class BlockDwarfStarExplosive extends Block {
+
+	public BlockDwarfStarExplosive(Material materialIn) {
+		super(materialIn);
+	}
+
+}

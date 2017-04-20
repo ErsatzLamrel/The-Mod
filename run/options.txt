@@ -9,12 +9,12 @@ guiScale:2
 particles:0
 bobView:false
 anaglyph3d:false
-maxFps:120
+maxFps:260
 fboEnable:true
 difficulty:0
 fancyGraphics:true
 ao:2
-renderClouds:true
+renderClouds:false
 resourcePacks:[]
 incompatibleResourcePacks:[]
 lastServer:

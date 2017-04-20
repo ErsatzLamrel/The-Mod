@@ -1,0 +1,7 @@
+package nat.nshm.blocks;
+
+import net.minecraft.block.Block;
+
+public class BlockDwarfStarExplosive extends Block {
+
+}

@@ -6,7 +6,6 @@
 <fullyQualifiedTypeName name="nat.nshm.items.ItemDwarfStarIngot"/>
 <fullyQualifiedTypeName name="net.minecraft.client.renderer.block.model.ModelResourceLocation"/>
 <fullyQualifiedTypeName name="net.minecraft.block.Block"/>
-<fullyQualifiedTypeName name="net.minecraft.item.Item"/>
 <fullyQualifiedTypeName name="nat.nshm.Reference.SuperHeroBlocks"/>
 <fullyQualifiedTypeName name="net.minecraft.item.ItemBlock"/>
 <fullyQualifiedTypeName name="nat.nshm.blocks.BlockPalladiumOre"/>
@@ -30,12 +29,20 @@
 <fullyQualifiedTypeName name="nat.nshm.Reference"/>
 <fullyQualifiedTypeName name="nat.nshm.Reference.SuperHeroItems"/>
 <fullyQualifiedTypeName name="nat.nshm.SuperHeroTab"/>
-<fullyQualifiedTypeName name="nat.nshm.SuperHero"/>
 <fullyQualifiedTypeName name="nat.nshm.items.ItemModArmor"/>
 <fullyQualifiedTypeName name="net.minecraft.inventory.EntityEquipmentSlot"/>
 <fullyQualifiedTypeName name="net.minecraft.world.World"/>
 <fullyQualifiedTypeName name="net.minecraft.entity.player.EntityPlayer"/>
-<fullyQualifiedTypeName name="net.minecraft.item.ItemStack"/>
 <fullyQualifiedTypeName name="nat.nshm.init.ModItems"/>
+<fullyQualifiedTypeName name="net.minecraft.item.Item.ToolMaterial"/>
+<fullyQualifiedTypeName name="nat.nshm.items.ItemDwarfStarTippedArrow"/>
+<fullyQualifiedTypeName name="nat.nshm.items.ItemModAxe"/>
+<fullyQualifiedTypeName name="net.minecraft.item.ItemAxe"/>
+<fullyQualifiedTypeName name="net.minecraft.item.Item"/>
+<fullyQualifiedTypeName name="net.minecraft.item.ItemStack"/>
+<fullyQualifiedTypeName name="nat.nshm.SuperHero"/>
+<fullyQualifiedTypeName name="net.minecraft.item.ItemTool"/>
+<fullyQualifiedTypeName name="net.minecraft.item.ItemArrow"/>
 <fullyQualifiedTypeName name="net.minecraft.potion.Potion"/>
+<fullyQualifiedTypeName name="org.omg.PortableServer.ServantRetentionPolicyOperations"/>
 </qualifiedTypeNameHistroy>

@@ -6,13 +6,35 @@ item.CarbonFiberMesh.name=Carbon Fiber Mesh
 item.UnstableDwarfStarIngot.name=Unstable Dwarf-Star Ingot
 item.GreenCarbonFiberMesh.name=Green Carbon Fiber Mesh
 item.IronRod.name=Iron Rod
+item.DwarfStarTippedArrow.name=Dwarf-Star Tipped Arrow
+item.QuantumSplicer.name=Quantum Splicer
 
 item.dwarfstar_helmet.name=Dwarf-Star Helm
 item.dwarfstar_chestplate.name=Dwarf-Star Chestpiece
 item.dwarfstar_leggings.name=Dwarf-Star Pants
 item.dwarfstar_boots.name=Dwarf-Star Boots
 
-item.palladiumstar_helmet.name=Palladium Helm
+item.carbon_helmet.name=Carbon Helm
+item.carbon_chestplate.name=Carbon Chestpiece
+item.carbon_leggings.name=Carbon Pants
+item.carbon_boots.name=Carbon Boots
+
+item.dwarfstar_axe.name=Dwarf-Star Axe
+item.dwarfstar_pickaxe.name=Dwarf-Star Pickaxe
+item.dwarfstar_shovel.name=Dwarf-Star Shovel
+item.dwarfstar_hoe.name=Dwarf-Star Hoe
+item.dwarfstar_sword.name=Dwarf-Star Sword
+
+item.palladium_axe.name=Palladium Axe
+item.palladium_pickaxe.name=Palladium Pickaxe
+item.palladium_shovel.name=Palladium Shovel
+item.palladium_hoe.name=Palladium Hoe
+item.palladium_sword.name=Palladium Sword
+
+
+
+
+item.palladium_helmet.name=Palladium Helm
 item.palladium_chestplate.name=Palladium Chestpiece
 item.palladium_leggings.name=Palladium Pants
 item.palladium_boots.name=Palladium Boots
