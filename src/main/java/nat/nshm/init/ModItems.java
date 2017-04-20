@@ -69,7 +69,7 @@ public class ModItems {
 	public static Item dwarfstar_chestplate;
 	public static Item dwarfstar_leggings;
 	public static Item dwarfstar_boots;
-	//Palaldium Armor
+	//Palladium Armor
 	public static ArmorMaterial PalladiumArmor = EnumHelper.addArmorMaterial("PalladiumArmor", "SuperHero:Palladium", 60, new int[]{3,7,5,3} , 64, SoundEvents.ITEM_ARMOR_EQUIP_DIAMOND, (float) 2.0);
 	public static Item palladium_helmet;
 	public static Item palladium_chestplate;
@@ -134,7 +134,7 @@ public class ModItems {
 		GameRegistry.registerItem(dwarfstar_chestplate = new ItemModArmor("dwarfstar_chestplate", DwarfStarArmor, 1, EntityEquipmentSlot.CHEST), dwarfstar_chestplate.getUnlocalizedName().substring(5));
 		GameRegistry.registerItem(dwarfstar_leggings = new ItemModArmor("dwarfstar_leggings", DwarfStarArmor, 1, EntityEquipmentSlot.LEGS), dwarfstar_leggings.getUnlocalizedName().substring(5));
 		GameRegistry.registerItem(dwarfstar_boots = new ItemModArmor("dwarfstar_boots", DwarfStarArmor, 1, EntityEquipmentSlot.FEET), dwarfstar_boots.getUnlocalizedName().substring(5));
-	//Paladium Armor
+	//Palladium Armor
 		GameRegistry.registerItem(palladium_helmet = new ItemModArmor("palladium_helmet", PalladiumArmor, 1, EntityEquipmentSlot.HEAD), palladium_helmet.getUnlocalizedName().substring(5));
 		GameRegistry.registerItem(palladium_chestplate = new ItemModArmor("palladium_chestplate", PalladiumArmor, 1, EntityEquipmentSlot.CHEST), palladium_chestplate.getUnlocalizedName().substring(5));
 		GameRegistry.registerItem(palladium_leggings = new ItemModArmor("palladium_leggings", PalladiumArmor, 1, EntityEquipmentSlot.LEGS), palladium_leggings.getUnlocalizedName().substring(5));
